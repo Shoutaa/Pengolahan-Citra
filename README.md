@@ -1,5 +1,4 @@
 # Pengolahan-Citra
-Pertemuan 4
 
 Nama : Dhika Restu Fauzi
 
